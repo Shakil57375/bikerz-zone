@@ -1,0 +1,25 @@
+.banner-img-1{
+    background-image: url(../code/image/carousel/1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.banner-img-2{
+    background-image: url(../code/image/carousel/4.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.banner-img-3{
+    background-image: url(../code/image/carousel/5.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.client-image{
+    width: 160px;
+    margin-bottom: 20px;
+}
